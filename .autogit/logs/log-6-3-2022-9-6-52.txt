@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Wed Apr 06 2022 09:06:52 GMT+0300 (Israel Daylight Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-6-3-2022-8-36-31.txt
+
+
+Deleted files:
+
+
+Renamed files:
